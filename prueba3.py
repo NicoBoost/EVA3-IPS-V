@@ -53,6 +53,4 @@ while True:
         case 5: pass
         case 6: pass
         case 7: break
-print("--- Ha salido Del Banco ---")
-
-pass
+print("Hasta la vista baby...")
